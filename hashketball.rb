@@ -3,7 +3,8 @@ def game_hash
   hash = {:home =>{
     :team_name => '',
     :colors => [],
-    :players => [{:number => ''
+    :players => [{:number => '',
+    
     }]
   },
   {:away => 
